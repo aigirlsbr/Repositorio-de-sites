@@ -41,7 +41,7 @@ Esse arquivo contém links para download gratuito de diversos livros para iníci
 ### **Inteligência Artificial**
 
 > - Redes Neurais: Principio e Prática: [Download Aqui](https://book4you.org/book/3624720/048e38)
-> - Machine Learning – Guia de Referência Rápida: [Download Aqui](https://book4you.org/book/13048135/9fa8e5)
+> - Machine Learning - Guia de Referência Rápida: [Download Aqui](https://book4you.org/book/13048135/9fa8e5)
 > - Machine Learning - Introducao a classificação: [Download Aqui](https://book4you.org/book/5740350/245660?dsource=recommend)
 
 ### **Visão Computacional**
