@@ -15,7 +15,7 @@ MIT
 
 **Repositório de livre compartilhamento.**
 
-   [Livros]: <https://github.com/aigirlsbr/Repositorio-de-sites/blob/main/Indica%C3%A7%C3%B5es_Livros>
+   [Livros]: <https://github.com/aigirlsbr/Repositorio-de-sites/blob/c75fb484b3030a596e5f4a3033f051029fbb0cdb/Indica%C3%A7%C3%B5es_Livros.md>
    [Podcasts]: <>
    [Cursos gratuitos]: <>
    [Séries/Filmes/Documentários]: <>
