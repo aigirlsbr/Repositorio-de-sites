@@ -1,6 +1,6 @@
 # Indicações de material
 
-<p><img src="logo.png" width=550px align="center">
+<p><img src="logo.png" width=600px align="center">
 </p>
 
 
