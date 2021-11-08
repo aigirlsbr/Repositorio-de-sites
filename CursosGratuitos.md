@@ -5,7 +5,7 @@
 
 Esse arquivo contém links de cursos online, totalmente gratuitos que podem ajudar na jornada de conhecimento de quem está começando na área de TI ou até mesmo migrandando de outra área de TI para Data Science.
 
-### Para está começando em TI
+### Para quem está começando em TI
 
 > - Básico da Linguagem Python: **_(sem certificados)_**
 >   - [Parte I](https://www.cursoemvideo.com/curso/python-3-mundo-1/)
@@ -25,3 +25,5 @@ Esse arquivo contém links de cursos online, totalmente gratuitos que podem ajud
 >   - [Microsoft Power BI Para Data Science, Versão 2.0](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science)
 > - Nano Cursos FIAP: [Realizar cadastro aqui](https://on.fiap.com.br/local/movimentobrasildigital/) **_(com certificados)_**
 > - [Data Science: Visualização de Dados com Python](https://www.udemy.com/course/visualizacao-de-dados-com-python/) **_(sem certificado)_**
+
+### Podem encontrar outras indicações de cursos do Básico ao Avançado no nosso repositório somente de [cursos](https://github.com/aigirlsbr/Cursos-DS).
