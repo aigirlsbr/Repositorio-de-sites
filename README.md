@@ -13,7 +13,7 @@ Nós da comunidade esperamos que achem interessante o material separado aqui par
 3. [Cursos gratuitos]
 4. [Séries/Filmes/Documentários]
 
-## _License_
+## _Licença_
 
 MIT
 
