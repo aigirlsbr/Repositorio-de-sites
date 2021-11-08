@@ -16,7 +16,7 @@ MIT
 **Repositório de livre compartilhamento.**
 
    [Livros]: <Indicações_Livros.md>
-   [Podcasts]: <>
-   [Cursos gratuitos]: <>
-   [Séries/Filmes/Documentários]: <>
+   [Podcasts]: <Indicações_Podcasts.md>
+   [Cursos gratuitos]: <CursosGratuitos.md>
+   [Séries/Filmes/Documentários]: <ParaAssistir.md>
    
