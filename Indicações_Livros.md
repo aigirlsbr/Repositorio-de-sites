@@ -18,7 +18,7 @@ Esse arquivo contém links para download gratuito de diversos livros para iníci
 ### **Análise de Dados**
 
 > - Storytelling com Dados: [Download Aqui](https://book4you.org/book/5628135/062fe2?dsource=recommend)
-> - Data Analysis and Visualization Using Python: [Download Aqui](https://book4you.org/book/3629819/0181eb) (_Inglês_)
+> - Data Analysis and Visualization Using Python: [Download Aqui](https://book4you.org/book/3629819/0181eb) **(_Inglês_)**
 > - Python para Análise de Dados: [Download Aqui](https://book4you.org/book/5359718/3eb664)
 
 ### **Estatística**
@@ -47,7 +47,7 @@ Esse arquivo contém links para download gratuito de diversos livros para iníci
 ### **Visão Computacional**
 
 > - Introdução a Visão Computacional by Casa do Código: [Download Aqui](https://book4you.org/book/5784259/563167)
-> - Learn Computer Vision Using OpenCV: [Download Aqui](https://book4you.org/book/5242217/f1ca70) (_Inglês_)
-> - Learning OpenCV 3: Computer vision in C++ with the OpenCV library: [Download Aqui](https://book4you.org/book/3306705/d9c0e3) (_Inglês_)
+> - Learn Computer Vision Using OpenCV: [Download Aqui](https://book4you.org/book/5242217/f1ca70) **(_Inglês_)**
+> - Learning OpenCV 3: Computer vision in C++ with the OpenCV library: [Download Aqui](https://book4you.org/book/3306705/d9c0e3) **(_Inglês_)**
 
 > **Obs.: Não apoiamos a pirataria, somente o livre compartilhamento de conhecimento.**
