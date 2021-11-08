@@ -8,10 +8,10 @@ Pessoal, abaixo se encontram algums indicações de livros, podcasts, cursos gra
 
 Nós da comunidade esperamos que achem interessante o material separado aqui para o estudo de vocês!
 
-**1. [Livros]**
-**2. [Podcasts]**
-**3. [Cursos gratuitos]**
-**4. [Séries/Filmes/Documentários]**
+1. [Livros]
+2. [Podcasts]
+3. [Cursos gratuitos]
+4. [Séries/Filmes/Documentários]
 
 ## _Licença_
 
