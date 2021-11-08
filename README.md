@@ -1,4 +1,4 @@
-<h1 align="center">Indicações de material - Comunidade AI Girls<h1>
+# Indicações de material - Comunidade AI Girls
 
 ![AIGirls](https://trello.com/1/cards/5e557df4c9fb3a4f7024c2a4/attachments/5e56d0b24e9997076cd28816/previews/5e56d0b34e9997076cd28839/download/logoAIGirls_fundos_escuros.png "AIGirls")
 
