@@ -1,5 +1,8 @@
 # Indicações de material - Comunidade AI Girls
 
+<p><img src="logo.png" width=500px align="center">
+</p>
+
 ![AIGirls](https://drive.google.com/file/d/1eu-fODHm5ZTQcrGS7ycHIpjbkTI3jq9m/view?usp=sharing "AIGirls")
 
 Pessoal, abaixo se encontram algums indicações de livros, podcasts, cursos gratuitos e filmes/séries/documentários para quem está começando na área de TI e Data Science ou até mesmo querendo se aprofundar em temas relacionados.
