@@ -26,4 +26,4 @@ Esse arquivo contém links de cursos online, totalmente gratuitos que podem ajud
 > - Nano Cursos FIAP: [Realizar cadastro aqui](https://on.fiap.com.br/local/movimentobrasildigital/) **_(com certificados)_**
 > - [Data Science: Visualização de Dados com Python](https://www.udemy.com/course/visualizacao-de-dados-com-python/) **_(sem certificado)_**
 
-### Podem encontrar outras indicações de cursos do Básico ao Avançado no nosso repositório somente de cursos [clicando aqui](https://github.com/aigirlsbr/Cursos-DS).
+#### Podem encontrar outras indicações de cursos do Básico ao Avançado no nosso repositório somente de cursos [clicando aqui](https://github.com/aigirlsbr/Cursos-DS).
