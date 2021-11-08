@@ -50,4 +50,4 @@ Esse arquivo contém links para download gratuito de diversos livros para iníci
 > - Learn Computer Vision Using OpenCV: [Download Aqui](https://book4you.org/book/5242217/f1ca70) **(_Inglês_)**
 > - Learning OpenCV 3: Computer vision in C++ with the OpenCV library: [Download Aqui](https://book4you.org/book/3306705/d9c0e3) **(_Inglês_)**
 
-> **Obs.: Não apoiamos a pirataria, somente o livre compartilhamento de conhecimento.**
+**Obs.: Não apoiamos a pirataria, somente o livre compartilhamento de conhecimento.**
