@@ -12,7 +12,7 @@ Esperamos que gostem!
 > Nesse filme conhecemos um pouco a _história por trás da criação do **Facebook**_.
 
 - '_O Jogo da Imitação_' disponível na **HBO Max**
-> Esse filme é uma homenagem a **Alan Turing**, _considerado o pai da computação_ após a segunda guerra mundial devido sua contribuição trabalhando na agência de inteligência britânica MI6, Alan foi responsável pela criação de uma máquina que conseguia decodificar mensagens nazistas. Foi um homem corajoso que sofreu grandes preconceitos mesmo tendo ajudado na luta contra o nazismo, seu papel é considerado um dos mais importantes no decorrer da história da tecnologia.
+> Esse filme é uma homenagem a **Alan Turing**, _**considerado o pai da computação**_ após a segunda guerra mundial devido sua contribuição trabalhando na agência de inteligência britânica MI6, Alan foi responsável pela criação de uma máquina que conseguia decodificar mensagens nazistas. Foi um homem corajoso que sofreu grandes preconceitos mesmo tendo ajudado na luta contra o nazismo, seu papel é considerado um dos mais importantes no decorrer da história da tecnologia.
 
 ### **Séries**
 
