@@ -3,7 +3,7 @@
 <p><img src="https://i.zst.com.br/images/livros-para-o-enem-veja-opcoes-para-estudar-portugues-e-literatura-photo695669592-44-24-19.jpg" width=600px align="center">
 </p>
 
-Esse arquivo contém links para download gratuito de diversos livros para início de carreira em Data Science como um todo e IA.
+Esse arquivo contém links para download gratuito de diversos livros relacionados a Data Science e IA.
 
 ### **Python**
 
@@ -42,7 +42,7 @@ Esse arquivo contém links para download gratuito de diversos livros para iníci
 
 > - Redes Neurais: Principio e Prática: [Download Aqui](https://book4you.org/book/3624720/048e38)
 > - Machine Learning - Guia de Referência Rápida: [Download Aqui](https://book4you.org/book/13048135/9fa8e5)
-> - Machine Learning - Introducao a classificação: [Download Aqui](https://book4you.org/book/5740350/245660?dsource=recommend)
+> - Machine Learning - Introducao a classificação by Casa do Código: [Download Aqui](https://book4you.org/book/5740350/245660?dsource=recommend)
 
 ### **Visão Computacional**
 
