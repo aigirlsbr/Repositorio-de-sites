@@ -43,6 +43,9 @@ Esse arquivo contém links para download gratuito de diversos livros relacionado
 > - Redes Neurais: Principio e Prática: [Download Aqui](https://book4you.org/book/3624720/048e38)
 > - Machine Learning - Guia de Referência Rápida: [Download Aqui](https://book4you.org/book/13048135/9fa8e5)
 > - Machine Learning - Introducao a classificação by Casa do Código: [Download Aqui](https://book4you.org/book/5740350/245660?dsource=recommend)
+> - Inteligência Artificial: [Download Aqui](https://br1lib.org/book/5214190/89256d?dsource=recommend)
+> - Inteligência Artificial - Uma abordagem de Aprendizado de Máquina: [Download Aqui](https://br1lib.org/book/11596132/80b1cb?dsource=recommend)
+> - Inteligência Artificial - Como os robôs estão mudando o mundo: [Download Aqui](https://br1lib.org/book/16429258/1a74f9)
 
 ### **Visão Computacional**
 
