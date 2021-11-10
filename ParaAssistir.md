@@ -18,8 +18,3 @@ Esperamos que gostem!
 
 - '_Mr. Robot_' disponível na **Prime Vídeo**
 > É uma série que fala sobre um hacker por trás de um coletivo anônimo chamado fsociety, responsável pelo maior ciberataque da história no universo fictício em que se desenrola o enredo da série. Considerada confusa no começo, mas com um alto nível de crítica social em relação a globalização e o quanto possui influência em nossas vidas.
-
-### **Documentários**
-
-- 
-> 
